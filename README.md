@@ -1,91 +1,87 @@
 <div align="center">
 
-<br>
+<!-- ANIMATED HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00FFFF,25:7B2CFF,50:FF00FF,100:00FFFF&height=230&section=header&text=FINSTERNET&fontSize=54&fontAlignY=36&desc=APPLICATION%20SECURITY%20%E2%80%A2%20OFFENSIVE%20RESEARCH%20%E2%80%A2%20WAF%20ARCHITECT&descAlignY=58&descAlign=50&animation=twinkling" alt="FinsterNet Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=44&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=800&height=70&lines=F%20I%20N%20S%20T%20E%20R%20N%20E%20T;ROBA%20.JR%20%7C%20SECURITY%20RESEARCH" alt="FinsterNet Banner"/>
-
-### 🟣 `APPLICATION SECURITY` • 🔐 `OFFENSIVE RESEARCH` • 🛡️ `DEFENSIVE ENGINEERING`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=750&lines=Think+like+an+attacker.+Build+like+a+defender.;Breaking+complex+systems+to+engineer+unbreakable+defenses.;Developer+of+BastionWAF+-+Next-Gen+Semantic+AST+Firewall.;Curiosity+%7C+Vulnerability+Research+%7C+Code." alt="Typing Subtitle"/>
+<!-- ANIMATED HUD BAR -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Cyberpunk HUD Divider" />
 
 <br>
 
-[![FinsterNet](https://img.shields.io/badge/SECURITY_RESEARCHER-0D1117?style=for-the-badge&logo=target&logoColor=00FFFF)](#)
-[![AppSec](https://img.shields.io/badge/APPLICATION_SECURITY-0D1117?style=for-the-badge&logo=shield&logoColor=FF00FF)](#)
-[![Defensive](https://img.shields.io/badge/DEFENSIVE_SYSTEMS-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FFFF)](#)
-[![Linux](https://img.shields.io/badge/ARCH_LINUX-0D1117?style=for-the-badge&logo=archlinux&logoColor=1793D1)](#)
+<!-- DYNAMIC TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=800&color=00FFFF&center=true&vCenter=true&width=800&lines=Think+like+an+attacker.+Build+like+a+defender.;Breaking+complex+systems+to+engineer+unbreakable+software.;Architect+of+Bastion+WAF+-+SafeLine-Inspired+AST+Firewall.;Offensive+AppSec+%E2%80%A2+Vulnerability+Research+%E2%80%A2+Zero-Days." alt="Animated Cyber Subtitle"/>
 
 <br>
 
+<!-- BADGES WITH GLOW -->
+[![Security Researcher](https://img.shields.io/badge/SECURITY_RESEARCHER-0D1117?style=for-the-badge&logo=target&logoColor=00FFFF)](#)
+[![AppSec Engineer](https://img.shields.io/badge/APPSEC_DEVELOPER-0D1117?style=for-the-badge&logo=shield&logoColor=FF00FF)](#)
+[![AST Engines](https://img.shields.io/badge/SEMANTIC_AST_ENGINES-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FFFF)](#)
+[![Arch Linux](https://img.shields.io/badge/ARCH_LINUX_POWER_USER-0D1117?style=for-the-badge&logo=archlinux&logoColor=1793D1)](#)
+
+<br><br>
+
+<!-- TELEMETRY VISITOR COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=FinsterNet&label=CYBER_VISITORS&color=7B2CFF&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
 
+<!-- TERMINAL HUD WINDOW -->
 ```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                          ⚡ FINSTERNET COMMAND CENTER ⚡                      ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  • Identity:   Roba .jr                                                      ║
-║  • Role:       Cybersecurity Researcher & Application Security Engineer      ║
-║  • Focus:      Semantic WAF Parsers, Web Exploit Evasions, Threat Modeling   ║
-║  • Flagship:   Bastion WAF (SafeLine-inspired AST Engine, 28 Rules, CAPTCHA) ║
-║  • Motto:      "Think like an attacker. Build like a defender."              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                          ⚡ FINSTERNET COMMAND CENTER ⚡                             ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║  • Identity:   Roba .jr (FinsterNet)                                                 ║
+║  • Role:       Cybersecurity Researcher & Application Security Software Engineer     ║
+║  • Focus:      Semantic WAF Grammars, Zero-Day Evasions, Threat Modeling, Hardening  ║
+║  • Flagship:   Bastion WAF (AST Tokenizer, 28 Rules, 3-Tier Risk Slider CAPTCHA)     ║
+║  • Toolset:    Burp Suite • Python • AST Grammars • Linux Kernel • Ghidra • Docker   ║
+║  • Mindset:    "Don't just use the tool — understand the bytecode & grammar."        ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 🌟 Featured Flagship Project
+## 🌟 Flagship Project Spotlight
 
 <div align="center">
 
 ### [🛡️ Bastion WAF — Next-Gen Web Application Firewall](https://github.com/FinsterNet/BastionWAF)
 
-*An enterprise-grade, high-performance WAF powered by **SafeLine-inspired Semantic AST Analyzers** to eliminate false positives and stop advanced zero-day web attacks.*
-
-[![CI Tests](https://img.shields.io/badge/Tests-103%2F103%20Passing-brightgreen.svg?style=flat-square&logo=pytest)](https://github.com/FinsterNet/BastionWAF)
-[![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.13%20%7C%203.14-blue.svg?style=flat-square&logo=python)](https://github.com/FinsterNet/BastionWAF)
-[![Rules](https://img.shields.io/badge/Security%20Rules-28%20Active-red.svg?style=flat-square&logo=owasp)](https://github.com/FinsterNet/BastionWAF)
-[![Engine](https://img.shields.io/badge/Engine-Semantic%20AST%20Lexer-indigo.svg?style=flat-square)](https://github.com/FinsterNet/BastionWAF)
-[![Docker](https://img.shields.io/badge/Deployment-Docker%20Compose-2496ED.svg?style=flat-square&logo=docker)](https://github.com/FinsterNet/BastionWAF)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/FinsterNet/BastionWAF/blob/main/LICENSE)
+*An enterprise-grade, high-performance WAF powered by **SafeLine-inspired Semantic AST Analyzers** designed to eliminate false positives on natural language and stop advanced zero-day web attacks.*
 
 <br>
 
-<table align="center" width="90%">
+[![CI Tests](https://img.shields.io/badge/Tests-103%2F103%20Passing-brightgreen.svg?style=for-the-badge&logo=pytest)](https://github.com/FinsterNet/BastionWAF)
+[![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.13%20%7C%203.14-blue.svg?style=for-the-badge&logo=python)](https://github.com/FinsterNet/BastionWAF)
+[![Rules](https://img.shields.io/badge/Rules-28%20Active%20OWASP%20%2F%20API-red.svg?style=for-the-badge&logo=owasp)](https://github.com/FinsterNet/BastionWAF)
+[![Engine](https://img.shields.io/badge/Engine-SafeLine%20Semantic%20AST-indigo.svg?style=for-the-badge)](https://github.com/FinsterNet/BastionWAF)
+[![Docker](https://img.shields.io/badge/Deployment-Docker%20Compose-2496ED.svg?style=for-the-badge&logo=docker)](https://github.com/FinsterNet/BastionWAF)
+
+<br><br>
+
+<table align="center" width="95%">
 <tr>
 <td width="33%" align="center">
-<b>🧠 Semantic AST Parsers</b><br>
-<sub>Evaluates grammar execution context instead of naive regex, cleanly permitting natural language and math formulas.</sub>
+<h4>🧠 Semantic AST Analyzers</h4>
+<sub>Parses payloads into abstract syntax trees (SQL, HTML/JS, Shell, Path, Multi-Format IP) to evaluate true execution intent rather than blind regex keywords.</sub>
 </td>
 <td width="33%" align="center">
-<b>🧩 3-Tier Risk Challenge</b><br>
-<sub>Adaptive response: instant 403 hard block, dark-themed Slider CAPTCHA with HMAC verification, or seamless forwarding.</sub>
+<h4>🧩 3-Tier Adaptive Challenge</h4>
+<sub>Tier 1 instant 403 blocks for critical exploits; Tier 2 interactive dark-themed <b>Slider CAPTCHA</b> with HMAC verification; Tier 3 seamless routing.</sub>
 </td>
 <td width="33%" align="center">
-<b>📊 Live SOC Dashboard</b><br>
-<sub>High-throughput reverse proxy with real-time QPS telemetry, dynamic rule toggles, and full payload inspector.</sub>
+<h4>📊 Real-Time SOC Dashboard</h4>
+<sub>Async reverse proxy gateway with live QPS telemetry, dynamic rule toggles, site manager, and full raw/normalized payload inspector.</sub>
 </td>
 </tr>
 </table>
 
-👉 **[Explore the Bastion WAF Repository & Source Code →](https://github.com/FinsterNet/BastionWAF)**
+<br>
 
-</div>
-
----
-
-## 🧠 About & Research Philosophy
-
-I am a **Cybersecurity Researcher and Application Security Developer** dedicated to dissecting complex systems, uncovering novel evasion vectors, and designing resilient defensive software.
-
-My core areas of exploration span **offensive application security, vulnerability research, reverse engineering, penetration testing, and security automation**. I believe the strongest security engineers are those who understand the deepest mechanics of how exploits execute at the byte, token, and grammar levels.
-
-<div align="center">
-
-`🔎 RECON` ➔ `🧩 DECONSTRUCT` ➔ `⚔️ EXPLOIT` ➔ `🔬 ANALYZE` ➔ `🛡️ HARDEN`
+**[👉 Explore Bastion WAF Source Code & Documentation →](https://github.com/FinsterNet/BastionWAF)**
 
 </div>
 
@@ -124,10 +120,10 @@ My core areas of exploration span **offensive application security, vulnerabilit
 <div align="center">
 
 <img src="https://img.shields.io/badge/Bastion_WAF-7B2CFF?style=for-the-badge&logo=shield&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/Semantic_AST_Parsers-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/SafeLine_AST_Lexers-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FFFF"/>
 <img src="https://img.shields.io/badge/OWASP_CRS-E60000?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI_Async-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux_Hardening-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </div>
@@ -138,42 +134,42 @@ My core areas of exploration span **offensive application security, vulnerabilit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,java,mysql,sqlite,fastapi,flask,docker,git,linux,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,java,mysql,sqlite,fastapi,flask,docker,git,linux,postman,vscode&theme=dark" alt="Skill Icons" />
 
 </div>
 
 ---
 
-## 🔍 Core Security Domains
+## 🔍 Core Security Research Domains
 
 <table align="center" width="95%">
 <tr>
 <td align="center" width="33%">
 🌐<br><b>Web Application Security</b><br>
-<sub>SQLi AST Tautologies • XSS Contexts • SSRF Decoders • Deserialization • RCE • Path Traversal</sub>
+<sub>SQLi AST Tautologies • Context-Aware XSS • SSRF Decoders • Insecure Deserialization • RCE Chaining • Path Traversal</sub>
 </td>
 <td align="center" width="33%">
 🔌<br><b>API Threat Defense</b><br>
-<sub>GraphQL Introspection & Depth • Mass Assignment • Token URI Leaks • CORS Null Origin • JWT Tampering</sub>
+<sub>GraphQL Introspection & Recursion • Mass Assignment • Token URI Leaks • CORS Null Origin • JWT Tampering</sub>
 </td>
 <td align="center" width="33%">
 🤖<br><b>Bot & Threat Management</b><br>
-<sub>Automated Scanner Fingerprinting • Headless Browsers • Credential Stuffing • Adaptive Slider CAPTCHAs</sub>
+<sub>Automated Scanner Signatures • Headless Scraper Detection • Credential Stuffing • Adaptive Slider CAPTCHAs</sub>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="33%">
 🚩<br><b>Offensive CTFs & Labs</b><br>
-<sub>Hack The Box • TryHackMe • Vulnerable Web Targets • Active Directory Exploitation • Privilege Escalation</sub>
+<sub>Hack The Box • TryHackMe • Vulnerable Banking Targets • Active Directory Domains • Linux Privilege Escalation</sub>
 </td>
 <td align="center" width="33%">
 🐧<br><b>Linux & System Security</b><br>
-<sub>Kernel Exploits • SUID Misconfigurations • Namespace Isolation • Network Traffic Analysis • Shell Grammar</sub>
+<sub>Kernel Exploitation • SUID Auditing • Cgroups & Namespaces • Network Packet Inspection • Shell Parsing</sub>
 </td>
 <td align="center" width="33%">
 ⚙️<br><b>Security Automation</b><br>
-<sub>Custom Exploit Scripts • Python Security Tooling • Reverse Proxy Gateways • High-Throughput Scanners</sub>
+<sub>Custom Exploit Frameworks • High-Throughput Scanners • Reverse Proxy Pipelines • Telemetry Dashboards</sub>
 </td>
 </tr>
 </table>
@@ -203,33 +199,47 @@ My core areas of exploration span **offensive application security, vulnerabilit
 
 ---
 
+## 🐍 Contribution Activity Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FinsterNet/FinsterNet/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FinsterNet/FinsterNet/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/FinsterNet/FinsterNet/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
 ## 💡 The Security Mindset
 
 <div align="center">
 
 ```text
-          ╔═════════════════════════════════╗
-          ║          🔓 BREAK IT            ║
-          ║   Find the seams and edge cases ║
-          ╚════════════════╤════════════════╝
-                           ↓
-          ╔═════════════════════════════════╗
-          ║        🧠 UNDERSTAND IT         ║
-          ║   Deconstruct root vulnerabilities║
-          ╚════════════════╤════════════════╝
-                           ↓
-          ╔═════════════════════════════════╗
-          ║          ⚙️ BUILD IT            ║
-          ║  Engineer intelligent mechanisms║
-          ╚════════════════╤════════════════╝
-                           ↓
-          ╔═════════════════════════════════╗
-          ║          🛡️ SECURE IT           ║
-          ║ Resilient, zero false-positive  ║
-          ╚═════════════════════════════════╝
+          ╔═════════════════════════════════════════╗
+          ║               🔓 BREAK IT               ║
+          ║   Find the parser seams and edge cases  ║
+          ╚════════════════════╤════════════════════╝
+                               ↓
+          ╔═════════════════════════════════════════╗
+          ║             🧠 UNDERSTAND IT            ║
+          ║   Deconstruct root architectural flaws  ║
+          ╚════════════════════╤════════════════════╝
+                               ↓
+          ╔═════════════════════════════════════════╗
+          ║               ⚙️ BUILD IT               ║
+          ║      Engineer resilient AST parsers     ║
+          ╚════════════════════╤════════════════════╝
+                               ↓
+          ╔═════════════════════════════════════════╗
+          ║              🛡️ SECURE IT               ║
+          ║       Zero false-positive defense       ║
+          ╚═════════════════════════════════════════╝
 ```
 
-> ### *"Don't just run the tool — understand the protocol, the parser, and what executes underneath."*
+> ### *"Don't just run the tool — understand the protocol, the grammar, and what executes underneath."*
 
 </div>
 
@@ -241,12 +251,15 @@ My core areas of exploration span **offensive application security, vulnerabilit
 
 [![Email](https://img.shields.io/badge/Email-robajr14%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robajr14@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-FinsterNet-181717?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/FinsterNet)
-[![BastionWAF](https://img.shields.io/badge/Project-Bastion_WAF-7B2CFF?style=for-the-badge&logo=shield&logoColor=00FFFF)](https://github.com/FinsterNet/BastionWAF)
+[![BastionWAF](https://img.shields.io/badge/Flagship-Bastion_WAF-7B2CFF?style=for-the-badge&logo=shield&logoColor=00FFFF)](https://github.com/FinsterNet/BastionWAF)
 
-<br>
+<br><br>
+
+<!-- ANIMATED FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00FFFF,25:7B2CFF,50:FF00FF,100:00FFFF&height=120&section=footer" alt="FinsterNet Footer Wave" />
 
 ```text
-[FINSTERNET] :: SECURING THE WIRE, ONE PARSER AT A TIME.
+[FINSTERNET] :: SECURING THE DIGITAL WIRE, ONE PARSER AT A TIME.
 ```
 
 </div>
