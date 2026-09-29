@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00FFFF,25:7B2CFF,50:FF00FF,100:00FFFF&height=230&section=header&text=FINSTERNET&fontSize=54&fontAlignY=36&desc=APPLICATION%20SECURITY%20%E2%80%A2%20OFFENSIVE%20RESEARCH%20%E2%80%A2%20WAF%20ARCHITECT&descAlignY=58&descAlign=50&animation=twinkling" alt="FinsterNet Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00FFFF,25:7B2CFF,50:FF00FF,100:00FFFF&height=230&section=header&text=ROBEL&fontSize=54&fontAlignY=36&desc=APPLICATION%20SECURITY%20%E2%80%A2%20OFFENSIVE%20RESEARCH%20%E2%80%A2%20WAF%20ARCHITECT&descAlignY=58&descAlign=50&animation=twinkling" alt="Robel Header" />
 
 <!-- ANIMATED HUD BAR -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Cyberpunk HUD Divider" />
@@ -29,9 +29,9 @@
 <!-- TERMINAL HUD WINDOW -->
 ```text
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                          ⚡ FINSTERNET COMMAND CENTER ⚡                             ║
+║                            ⚡ ROBEL COMMAND CENTER ⚡                                ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
-║  • Identity:   Roba .jr (FinsterNet)                                                 ║
+║  • Identity:   Robel (FinsterNet)                                                    ║
 ║  • Role:       Cybersecurity Researcher & Application Security Software Engineer     ║
 ║  • Focus:      Semantic WAF Grammars, Zero-Day Evasions, Threat Modeling, Hardening  ║
 ║  • Flagship:   Bastion WAF (AST Tokenizer, 28 Rules, 3-Tier Risk Slider CAPTCHA)     ║
@@ -256,10 +256,10 @@
 <br><br>
 
 <!-- ANIMATED FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00FFFF,25:7B2CFF,50:FF00FF,100:00FFFF&height=120&section=footer" alt="FinsterNet Footer Wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00FFFF,25:7B2CFF,50:FF00FF,100:00FFFF&height=120&section=footer" alt="Robel Footer Wave" />
 
 ```text
-[FINSTERNET] :: SECURING THE DIGITAL WIRE, ONE PARSER AT A TIME.
+[ROBEL] :: SECURING THE DIGITAL WIRE, ONE PARSER AT A TIME.
 ```
 
 </div>
