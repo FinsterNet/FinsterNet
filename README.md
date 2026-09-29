@@ -9,7 +9,7 @@
 <br>
 
 <!-- DYNAMIC TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=800&color=00FFFF&center=true&vCenter=true&width=800&lines=Think+like+an+attacker.+Build+like+a+defender.;Breaking+complex+systems+to+engineer+unbreakable+software.;Architect+of+Bastion+WAF+-+SafeLine-Inspired+AST+Firewall.;Offensive+AppSec+%E2%80%A2+Vulnerability+Research+%E2%80%A2+Zero-Days." alt="Animated Cyber Subtitle"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=800&color=00FFFF&center=true&vCenter=true&width=800&lines=Think+like+an+attacker.+Build+like+a+defender.;Breaking+complex+systems+to+engineer+unbreakable+software.;Architect+of+Bastion+WAF+-+Context-Aware+AST+Firewall.;Offensive+AppSec+%E2%80%A2+Vulnerability+Research+%E2%80%A2+Zero-Days." alt="Animated Cyber Subtitle"/>
 
 <br>
 
@@ -50,14 +50,14 @@
 
 ### [🛡️ Bastion WAF — Next-Gen Web Application Firewall](https://github.com/FinsterNet/BastionWAF)
 
-*An enterprise-grade, high-performance WAF powered by **SafeLine-inspired Semantic AST Analyzers** designed to eliminate false positives on natural language and stop advanced zero-day web attacks.*
+*An enterprise-grade, high-performance WAF powered by **Context-Aware Semantic AST Analyzers** designed to eliminate false positives on natural language and stop advanced zero-day web attacks.*
 
 <br>
 
 [![CI Tests](https://img.shields.io/badge/Tests-103%2F103%20Passing-brightgreen.svg?style=for-the-badge&logo=pytest)](https://github.com/FinsterNet/BastionWAF)
 [![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.13%20%7C%203.14-blue.svg?style=for-the-badge&logo=python)](https://github.com/FinsterNet/BastionWAF)
 [![Rules](https://img.shields.io/badge/Rules-28%20Active%20OWASP%20%2F%20API-red.svg?style=for-the-badge&logo=owasp)](https://github.com/FinsterNet/BastionWAF)
-[![Engine](https://img.shields.io/badge/Engine-SafeLine%20Semantic%20AST-indigo.svg?style=for-the-badge)](https://github.com/FinsterNet/BastionWAF)
+[![Engine](https://img.shields.io/badge/Engine-Semantic%20AST%20Lexer-indigo.svg?style=for-the-badge)](https://github.com/FinsterNet/BastionWAF)
 [![Docker](https://img.shields.io/badge/Deployment-Docker%20Compose-2496ED.svg?style=for-the-badge&logo=docker)](https://github.com/FinsterNet/BastionWAF)
 
 <br><br>
@@ -120,7 +120,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Bastion_WAF-7B2CFF?style=for-the-badge&logo=shield&logoColor=00FFFF"/>
-<img src="https://img.shields.io/badge/SafeLine_AST_Lexers-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/Semantic_AST_Lexers-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FFFF"/>
 <img src="https://img.shields.io/badge/OWASP_CRS-E60000?style=for-the-badge&logo=owasp&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI_Async-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
